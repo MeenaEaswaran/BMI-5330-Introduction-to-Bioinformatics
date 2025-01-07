@@ -1,5 +1,7 @@
 # BMI 5330: Introduction to Bioinformatics
 
+# Project Title: Calpain10 (CAPN10): Unraveling its Significance in Polycystic Ovary Syndrome (PCOS) and Insulin Resistance
+
 Polycystic Ovary Syndrome (PCOS) is a prevalent hormonal disorder affecting 1 in 10 women worldwide, characterized by symptoms such as anovulation, menstrual irregularities, obesity, and insulin resistance. 
 Insulin resistance is a key feature in PCOS, contributing to associated risks like Type 2 Diabetes Mellitus. 
 
@@ -8,8 +10,6 @@ This repository contains details about the **bioinformatics project** investigat
 The study aims to contribute to the understanding of the genetic underpinnings of PCOS while building foundational skills in bioinformatics analysis.
 
 ---
-
-# Calpain10 (CAPN10): Unraveling its Significance in Polycystic Ovary Syndrome (PCOS) and Insulin Resistance
 
 ## Objectives
 
@@ -26,23 +26,23 @@ The project is structured to achieve the following objectives:
 ## Methodology
 
 ### 1. CAPN10 Expression in Human Tissues
-- **Tools**: Human Protein Atlas (HPA), GTEx Portal, EMBL-EBI Expression Atlas.
+- **Tools**: [Human Protein Atlas (HPA)](https://www.proteinatlas.org), [GTEx Portal](https://gtexportal.org), [EMBL-EBI Expression Atlas](https://www.ebi.ac.uk/gxa/home).
 - **Process**: Gene and protein expression levels were compiled and compared to identify unique patterns in various tissues.
 
 ### 2. Inter-Species Conservation
-- **Tools**: UCSC Genome Browser.
+- **Tools**: [UCSC Genome Browser](https://genome.ucsc.edu).
 - **Process**: The conservation of CAPN10 exonic and intronic regions was analyzed across species, focusing on those used in PCOS research.
 
 ### 3. Genetic Variations
-- **Tools**: NCBI dBSNP, dbVAR, ClinVaR.
+- **Tools**: NCBI [dBSNP](https://www.ncbi.nlm.nih.gov/snp/), [dbVAR](https://www.ncbi.nlm.nih.gov/dbvar/), [ClinVaR](https://www.ncbi.nlm.nih.gov/clinvar/).
 - **Process**: Variants of CAPN10 were identified, filtered by clinical significance, and assessed for relevance to PCOS, insulin resistance, and Type 2 Diabetes.
 
 ### 4. Gene Expression in PCOS Datasets
-- **Datasets**: GDS3104, GDS4133, GDS4399 from NCBI GEO.
+- **Datasets**: [GDS3104](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3104), [GDS4133](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4133), [GDS4399](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4399) from NCBI GEO.
 - **Process**: Differential expression analysis was performed using R (GEOquery and limma packages).
 
 ### 5. Functional Enrichment Analysis
-- **Tool**: PCOS Knowledge Base (PCOSKB).
+- **Tool**: [PCOS Knowledge Base (PCOSKB)](https://pcoskb.bicnirrh.res.in).
 - **Process**: Venn analysis of pathways and ontology terms overlapping PCOS, insulin resistance, and Type 2 Diabetes.
 
 ---
@@ -82,22 +82,7 @@ Through bioinformatics tools and datasets, this project deepens the understandin
 
 ---
 
-## Skills Demonstrated
-- Data retrieval and processing using bioinformatics databases (HPA, GTEx, EMBL-EBI, UCSC).
-- Differential expression analysis with R (GEOquery, limma).
-- Functional enrichment using curated knowledge bases (PCOSKB).
-- Critical analysis of genetic data for clinical relevance.
 
----
-
-## References
-
-1. Human Protein Atlas ([link](https://www.proteinatlas.org))
-2. GTEx Portal ([link](https://gtexportal.org))
-3. EMBL-EBI Expression Atlas ([link](https://www.ebi.ac.uk/gxa/home))
-4. UCSC Genome Browser ([link](https://genome.ucsc.edu))
-5. PCOS Knowledge Base ([link](https://pcoskb.bicnirrh.res.in))
-6. NCBI dBSNP and dbVAR ([link](https://www.ncbi.nlm.nih.gov))
 
 ---
 
