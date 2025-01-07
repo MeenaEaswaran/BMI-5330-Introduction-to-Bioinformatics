@@ -1,16 +1,15 @@
 # BMI 5330: Introduction to Bioinformatics
 
-# CAPN10: Exploring Its Role in PCOS and Insulin Resistance
-
-## Introduction
-
 Polycystic Ovary Syndrome (PCOS) is a prevalent hormonal disorder affecting 1 in 10 women worldwide, characterized by symptoms such as anovulation, menstrual irregularities, obesity, and insulin resistance. 
 Insulin resistance is a key feature in PCOS, contributing to associated risks like Type 2 Diabetes Mellitus. 
 
-This bioinformatics course project investigates the role of the **CAPN10-Calpain 10 gene**, a significant player in insulin resistance and Type 2 Diabetes, in PCOS. 
+This repository contains details about the **bioinformatics project** investigating the role of the **CAPN10-Calpain 10 gene**, a significant player in insulin resistance and Type 2 Diabetes, in PCOS, as part of the BMI 5330: Introduction to Bioinformatics course. 
+
 The study aims to contribute to the understanding of the genetic underpinnings of PCOS while building foundational skills in bioinformatics analysis.
 
 ---
+
+# Calpain10 (CAPN10): Unraveling its Significance in Polycystic Ovary Syndrome (PCOS) and Insulin Resistance
 
 ## Objectives
 
@@ -102,8 +101,3 @@ Through bioinformatics tools and datasets, this project deepens the understandin
 
 ---
 
-## License
-
-This project is part of an academic portfolio and is licensed under the [MIT License](LICENSE).
-
----
