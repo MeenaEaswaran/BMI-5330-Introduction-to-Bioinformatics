@@ -73,6 +73,6 @@ If you use the tools or dataset mentioned in this repository in your research, p
 
 ---
 
-For questions or issues, please contact the repository maintainer. Refer to the final course [report](Assets/Easwaran_Meena_Journal_paper.pdf) and [presentation](Assets/Easwaran_Meena_Journal_paper.pdf) for detailed information and results.
+For questions or issues, please contact the repository maintainer. Refer to the final course [report](Assets/Easwaran_Meena_Final_Project_report.pdf) and [presentation](Assets/Easwaran_Meena_Journal_paper.pdf) for detailed information and results.
 
 This repository is **solely for educational purposes and serves as a backup** for my graduate school assignments related to the **BMI 5330: Introduction to Bioinformatics** course at McWilliams School of Biomedical Informatics at UTHealth Houston.
