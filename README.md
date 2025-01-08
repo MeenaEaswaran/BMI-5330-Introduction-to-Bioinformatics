@@ -23,7 +23,7 @@ The project is structured to achieve the following objectives:
 
 ---
 
-## Methods and tools
+## Methods and Representative Outcomes
 
 ### 1. CAPN10 Expression in Human Tissues
 - **Tools**: [Human Protein Atlas (HPA)](https://www.proteinatlas.org), [GTEx Portal](https://gtexportal.org), [EMBL-EBI Expression Atlas](https://www.ebi.ac.uk/gxa/home).
@@ -34,27 +34,41 @@ The project is structured to achieve the following objectives:
 <img width="976" alt="image" src="https://github.com/user-attachments/assets/2d350fdb-65e4-4984-b8f2-2b84d8b64c6a" />
 <img width="1006" alt="image" src="https://github.com/user-attachments/assets/e7025ff4-0240-4042-b0c4-4cae20b71152" />
 
-### 2. Inter-Species Conservation
+### 2. Inter-Species Conservation of CAPN10
 - **Tools**: [UCSC Genome Browser](https://genome.ucsc.edu).
 - **Process**: The conservation of CAPN10 exonic and intronic regions was analyzed across species, focusing on those used in PCOS research.
 
+**Figures**
 <img width="1544" alt="image" src="https://github.com/user-attachments/assets/7faaed8e-a12d-44d2-a987-67760b22fafe" />
 <img width="772" alt="image" src="https://github.com/user-attachments/assets/0774f329-98eb-4a54-9e47-97d8d5ef5da6" />
 
 
-### 3. Genetic Variations
+### 3. CAPN10 Genetic Variations
 - **Tools**: NCBI [dBSNP](https://www.ncbi.nlm.nih.gov/snp/), [dbVAR](https://www.ncbi.nlm.nih.gov/dbvar/), [ClinVaR](https://www.ncbi.nlm.nih.gov/clinvar/).
 - **Process**: Variants of CAPN10 were identified, filtered by clinical significance, and assessed for relevance to PCOS, insulin resistance, and Type 2 Diabetes.
+- Refer to the outcomes in this [file]
 
-### 4. Gene Expression in PCOS Datasets
+
+
+### 4. CAPN10 Gene Expression in PCOS Datasets
 - **Datasets**: [GDS3104](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS3104), [GDS4133](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4133), [GDS4399](https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4399) from NCBI GEO.
 - **Process**: Differential expression analysis was performed using R (GEOquery and limma packages).
+- **Criteria for Differentially Expressed Genes (DEGs):**
+   - adjusted p-value ≤ 0.05
+- R scripts can be found in this [folder](scripts).
+  
+**Figures**
+
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/57eb4191-d2a9-4b40-b786-06c860cfe17a" />
 
 ### 5. Functional Enrichment Analysis
 - **Tool**: [PCOS Knowledge Base (PCOSKB)](https://pcoskb.bicnirrh.res.in).
 - **Process**: Venn analysis of pathways and ontology terms overlapping PCOS, insulin resistance, and Type 2 Diabetes.
-- R scripts can be found in this [folder](scripts).
-  
+
+**Figures**
+
+<img width="1424" alt="image" src="https://github.com/user-attachments/assets/fdae6dc5-228b-4bf5-bf1a-8b9b0e639099" />
+
 ---
 
 ## Citation
