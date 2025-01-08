@@ -53,7 +53,8 @@ The project is structured to achieve the following objectives:
 ### 5. Functional Enrichment Analysis
 - **Tool**: [PCOS Knowledge Base (PCOSKB)](https://pcoskb.bicnirrh.res.in).
 - **Process**: Venn analysis of pathways and ontology terms overlapping PCOS, insulin resistance, and Type 2 Diabetes.
-
+- R scripts can be found in this [folder](scripts).
+  
 ---
 
 ## Citation
