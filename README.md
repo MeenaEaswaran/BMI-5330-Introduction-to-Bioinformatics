@@ -11,7 +11,7 @@ The study aims to contribute to the understanding of the genetic underpinnings o
 
 ---
 
-## Objectives
+## Project Overview
 
 The project is structured to achieve the following objectives:
 
@@ -23,7 +23,7 @@ The project is structured to achieve the following objectives:
 
 ---
 
-## Methodology
+## Methods and tools
 
 ### 1. CAPN10 Expression in Human Tissues
 - **Tools**: [Human Protein Atlas (HPA)](https://www.proteinatlas.org), [GTEx Portal](https://gtexportal.org), [EMBL-EBI Expression Atlas](https://www.ebi.ac.uk/gxa/home).
@@ -47,38 +47,7 @@ The project is structured to achieve the following objectives:
 
 ---
 
-## Results
 
-### 1. CAPN10 Expression
-- CAPN10 is ubiquitously expressed in human tissues, with notable expression in the spleen and brain regions.
-
-### 2. Conservation Across Species
-- CAPN10 exonic regions are well conserved across species, particularly in non-human primates.
-
-### 3. Genetic Variations
-- SNP rs2975760 is linked to both PCOS and Type 2 Diabetes.
-- Structural variations in CAPN10 lack explicit links to PCOS or insulin resistance.
-
-### 4. Expression in PCOS Datasets
-- CAPN10 showed no significant differential expression in PCOS patients compared to controls.
-
-### 5. Functional Enrichment
-- Pathways related to insulin signaling were enriched across PCOS, insulin resistance, and Type 2 Diabetes.
-- Thyroid hormone synthesis pathways linked PCOS and insulin resistance.
-
----
-
-## Discussion
-
-This project highlights CAPN10's ubiquitous expression and evolutionary conservation, emphasizing its biological importance. While genetic variations like rs2975760 associate CAPN10 with PCOS and Type 2 Diabetes, structural variations require further investigation.
-
-The analysis also identified thyroid hormone synthesis as a potential link between PCOS and insulin resistance, opening avenues for future research. CAPN10's role in these interactions remains an area for further exploration, especially through transcriptomics and updated PCOS databases.
-
----
-
-## Conclusion
-
-Through bioinformatics tools and datasets, this project deepens the understanding of CAPN10's involvement in PCOS and related metabolic disorders. The study not only contributes valuable insights but also serves as a key learning milestone in the bioinformatics portfolio.
 
 ---
 
