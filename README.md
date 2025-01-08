@@ -46,7 +46,7 @@ The project is structured to achieve the following objectives:
 ### 3. CAPN10 Genetic Variations
 - **Tools**: NCBI [dBSNP](https://www.ncbi.nlm.nih.gov/snp/), [dbVAR](https://www.ncbi.nlm.nih.gov/dbvar/), [ClinVaR](https://www.ncbi.nlm.nih.gov/clinvar/).
 - **Process**: Variants of CAPN10 were identified, filtered by clinical significance, and assessed for relevance to PCOS, insulin resistance, and Type 2 Diabetes.
-- Refer to the outcomes in this [file]
+- Refer to the outcomes in this [file](Assets/CAPN10_genetic_variations.pdf).
 
 
 
